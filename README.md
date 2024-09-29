@@ -23,7 +23,7 @@ The dataset used in this project is Sonar Data, which consists of 60 sonar signa
 1. Clone this repository:
    ```bash
    git clone https://github.com/xNart06/sonar-rock-vs-mine.git
-2. Install the required libraries:
+2. Install the required libraries
 3. Open the Jupyter Notebook and run all the cells to train the model
 
 ## Model
