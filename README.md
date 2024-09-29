@@ -22,7 +22,7 @@ The dataset used in this project is Sonar Data, which consists of 60 sonar signa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sonar-rock-vs-mine.git
+   git clone https://github.com/xNart06/sonar-rock-vs-mine.git
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
